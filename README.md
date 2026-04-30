@@ -31,7 +31,12 @@ Get the water potability dataset from Kaggle:
 ```bash
 streamlit run app.py
 ```
-
+##project explanation
+This project predicts whether water is potable or not using machine learning.
+The dataset contains water quality parameters such as pH, hardness, solids,
+chloramines, sulfate, conductivity, organic carbon, trihalomethanes and turbidity.
+A Random Forest Classifier is trained on the dataset to classify water as safe or unsafe.
+The project is built using Python, Streamlit, Pandas, Scikit-learn and Plotly.
 ## Usage Flow
 
 1. **Upload Data** tab → upload your CSV or click "Load Sample Data"
