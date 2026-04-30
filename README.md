@@ -44,6 +44,33 @@ The project is built using Python, Streamlit, Pandas, Scikit-learn and Plotly.
 3. **Predictions** tab → Run predictions on all rows
 4. **Visualizations** tab → Explore your data
 5. **AI Chat** tab → Enter API key, initialize agent, ask questions
+6. # Water Quality Prediction System
+
+This project predicts whether water is safe or unsafe using machine learning.
+
+## Features
+- Dataset preview
+- Machine learning prediction
+- Model accuracy display
+- Safe vs unsafe pie chart
+- Manual water sample testing
+- Download cleaned dataset
+
+## Technologies Used
+- Python
+- Streamlit
+- Pandas
+- Scikit-learn
+- Plotly
+
+## Algorithm Used
+Random Forest Classifier
+
+## Future Scope
+- Real-time sensor data
+- AI chatbot
+- PDF report generation
+- Water treatment recommendation
 
 ## Project Structure
 
